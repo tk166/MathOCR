@@ -1,0 +1,6 @@
+streamlit
+streamlit-paste-button
+streamlit-ace
+pix2text>=1.1.0
+Pillow
+torch
