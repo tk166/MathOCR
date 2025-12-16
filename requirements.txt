@@ -5,3 +5,6 @@ pix2text>=1.1.0
 Pillow
 torch
 watchdog
+pywebview
+markdownify
+requests
